@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - bug
+  - Sword
+  - player
+  - Item
+  - Top
+  - Gate
+  - nextScene
+  - troThu
+  - cimema
+  - diamond
+  - Inventory
+  - Active
+  - Weapon
+  - Ghost
+  - GhostBullet
+  - Coin
+  - Health
+  - Ball
+  - Clown
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacle
+    uniqueID: 289051267
+    locked: 0
+  m_RenderingLayers:
+  - Default
