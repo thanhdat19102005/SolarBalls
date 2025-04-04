@@ -98612,14 +98612,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1380120711}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ef2c27e86259fa3468c75ab2588d125f, type: 3}
+  m_Script: {fileID: 11500000, guid: f81eb7ce1d43db34b88d568477c1e157, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Player: {fileID: 1532881317}
   tH: {fileID: 272272680}
   cimemachine: {fileID: 1068304181}
   mainCamera: {fileID: 519420028}
-  canvas: {fileID: 1792943658}
+  canvas: {fileID: 369084445}
 --- !u!4 &1380120713
 Transform:
   m_ObjectHideFlags: 0
